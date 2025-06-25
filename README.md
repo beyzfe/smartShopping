@@ -1,3 +1,12 @@
+SMARTSHOPPİNG
+
+
+Bu proje, React ve TypeScript kullanılarak geliştirilmiş basit bir alışveriş listesi uygulamasıdır. Kullanıcılar ürün ekleyebilir, listeleyebilir ve istedikleri ürünleri silebilirler. Ürünler isim, miktar ve kategori bilgilerini içerir. Uygulama, verileri tarayıcının localStorage alanında saklayarak sayfa yenilendiğinde bile bilgiler korunur. Proje, bileşen tabanlı bir yapıya sahiptir ve ProductForm, ProductList, ProductItem gibi bileşenlerden oluşur. Bu sayede kodun okunabilirliği ve yönetimi kolaylaşır. Stil için Tailwind CSS kullanılmıştır. Proje, temel düzeyde kullanıcıların alışveriş listesini yönetebilmeleri için pratik ve kullanışlı bir çözüm sunar.
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
